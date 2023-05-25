@@ -1,0 +1,16 @@
+/*section 2*/
+#Section-2{
+padding: 20px 180px;
+background: #ed80fd06;
+}
+
+.section-2_info{
+    display: flex;
+    gap: 35px;
+    margin: 70px 0px;
+
+}
+
+.section-2_pink{
+    color: #ed80fd;
+}
