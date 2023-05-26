@@ -11,7 +11,7 @@
 <br>
 
 <h2>Link página web</h2>
-<a hre="https://lorehm18.github.io/Taller-9-full-stack/">Link página</a>
+<a href="https://lorehm18.github.io/Taller-9-full-stack/">Link página</a>
 
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/html.png"
