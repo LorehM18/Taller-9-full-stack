@@ -34,11 +34,16 @@
 
 .section-1_card h3{
     font-family: 'Jost';
-    color: #45486868;
+    color: #454868;
     font-size: 18px;
     line-height: 20px;
     letter-spacing: -0.64px;
     text-align: center;
+}
+
+.section-1_card-down{
+    margin-top: 50px;
+
 }
 
 
