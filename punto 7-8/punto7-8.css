@@ -1,0 +1,21 @@
+header{
+    background-color: rgb(210, 163, 255);
+    display: flex;
+    gap: 25px;
+    height: 50px;
+    padding: 0 20px;
+    color: #fff;
+    align-items: center;
+    margin: -15px;
+}
+
+button{
+    background-color: blue;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    height: 30px;
+    width: 50px;
+    margin-top: 5px;
+    
+}
