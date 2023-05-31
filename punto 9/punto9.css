@@ -1,4 +1,5 @@
 table,th,td{
+    
     border: 1px dotted black;
     border-collapse: collapse;
 }      
@@ -8,6 +9,9 @@ table,th,td{
 }
 
 table{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: yellow;
         
 }
@@ -16,9 +20,12 @@ th{
     text-align: center;
     
 }
+
 td{
     text-align: left;
        
 }
+
+
 
 
